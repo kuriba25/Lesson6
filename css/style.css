@@ -63,6 +63,8 @@ header .profile{
 
 .profile .sepia{
   filter:sepia(100%);
+  width:140px;
+  height:140px;
 }
 
 header .site-title{
@@ -334,7 +336,7 @@ section h2{
   margin-right: 0;
 }
 
-/
+
 #contact ul .github,
 #contact ul .skype{
   font-size:3.2rem;
