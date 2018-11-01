@@ -61,11 +61,6 @@ header .profile{
   padding:60px 0;
 }
 
-.profile .sepia{
-  filter:sepia(100%);
-  width:140px;
-  height:140px;
-}
 
 header .site-title{
     font-size:1.8rem;
@@ -285,7 +280,7 @@ section h2{
 
 #works .works-box{
  display:flex;
- height:318px;
+ /*height:318px;*/
   }
 
 
